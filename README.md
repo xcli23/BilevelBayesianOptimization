@@ -18,7 +18,7 @@ Below are the information about machine that authors used.
 
 For the initial step, use the following command to install our git repository:
 
-```git clone --recursive https://github.com/snu-mllab/DiscreteBlockBayesAttack.git```
+```git clone --recursive https://github.com/xcli23/BilevelBayesianOptimization.git```
 
 Our implemented code for NLP domain can be found in [nlp\_attack folder](nlp_attack)
 
