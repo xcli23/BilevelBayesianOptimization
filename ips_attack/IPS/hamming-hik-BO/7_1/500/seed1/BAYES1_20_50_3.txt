@@ -1,0 +1,11 @@
+attac-->0, succ
+attac-->1, succ
+attac-->2, succ
+attac-->3, succ
+attac-->4, succ
+attac-->5, succ
+attac-->6, succ
+attac-->7, succ
+attac-->10, fail
+attac-->10, fail
+attac-->10, fail

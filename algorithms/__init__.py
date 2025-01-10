@@ -1,0 +1,2 @@
+from algorithms.discrete_block_bayesian_opt import BlockBayesAttack
+from algorithms.discrete_bayesian_opt import BayesOpt
