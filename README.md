@@ -22,7 +22,7 @@ For the initial step, use the following command to install our git repository:
 
 Our implemented code for NLP domain can be found in [nlp\_attack folder](nlp_attack)
 
-Our implemented code for other domain can be found in [other_domain\_attack folder](ips_attack)
+Our implemented code for other domain can be found in [other\_domain folder](ips_attack)
 
 ## Citation
 Enhancing Black-Box Adversarial Attacks on Discrete Sequential Data via Bilevel Bayesian Optimization in Hybrid Spaces
